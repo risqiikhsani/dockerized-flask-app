@@ -23,5 +23,21 @@ how to stop the running docker compose
 
     sudo docker-compose down
 
+>>>> push to docker hub <<<<<
+
+how to tag docker image
+
+    docker tag <image-name>:<tag> <docker-hub-username>/<repo-name>:<tag>
+
+how to push docker image
+
+    docker push <docker-hub-username>/<repo-name>:<tag>
+
+how to pull docker image
+
+    docker pull <docker-hub-username>/<repo-name>:<tag>
+
+
+
 
 
