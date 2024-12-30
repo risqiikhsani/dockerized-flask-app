@@ -16,6 +16,9 @@ instance/
 *.cfg
 *.ini
 
+# But don't ignore .env.example
+!.env.example
+
 # IDE files
 .idea/
 .vscode/
