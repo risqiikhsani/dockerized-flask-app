@@ -37,6 +37,9 @@ how to pull docker image
 
     docker pull <docker-hub-username>/<repo-name>:<tag>
 
+>>>> for automated build and push to docker hub , check out the github actions <<<<
+
+
 
 
 
